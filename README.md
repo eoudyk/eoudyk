@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @eoudyk
-- Software Engineering BrainStation Alumn
+- pronouns: she/her
+- Software Engineering BrainStation alumna
 - 👀 I’m interested in dogs, AI, and education 
 - 🌱 I’m currently learning Spanish and Dutch
 - 📫 Email is probably the best way to reach me, eoudyk@gmail.com
