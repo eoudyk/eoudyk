@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @eoudyk
+- Software Engineering BrainStation Alumn
 - 👀 I’m interested in dogs, AI, and education 
-- 🌱 I’m currently learning with BrainStation Toronto (software engineering)
-- 📫 Email is probably the best way to reach me
+- 🌱 I’m currently learning Spanish and Dutch
+- 📫 Email is probably the best way to reach me, eoudyk@gmail.com
 
 <!---
 eoudyk/eoudyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
